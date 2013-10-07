@@ -3,7 +3,7 @@ echo "First";
 <<<<<<< HEAD
 
 echo "third";
-
+echo "lastest";
 
 echo "6";
 =======

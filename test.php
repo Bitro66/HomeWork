@@ -3,8 +3,24 @@ echo "Hello";
 echo "Third";
 
 
+<<<<<<< HEAD
 echo "klius";
-echo "klius again";
+echo "klius again"
+asfdsf
+sdf
+sdf
+sdf
+sdf
+sdf
+sd
+f
+sdf
+sdf
+sdf
+sd
+f
+sdf
+sdf;
 
 
 
@@ -21,4 +37,9 @@ echo "klius again";
 
 
 
+=======
+
+echo "LOL";
+echo "OMG";
+>>>>>>> third
 
